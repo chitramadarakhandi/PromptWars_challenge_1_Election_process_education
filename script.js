@@ -10,9 +10,7 @@ try {
     console.warn("config.js not found. Chat requires GEMINI_API_KEY.");
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-
-    // --- Navigation & Routing Logic ---
+// --- Navigation & Routing Logic ---
     const navLinks = document.querySelectorAll('.nav-links li');
     const sections = document.querySelectorAll('.content-section');
     const sidebar = document.getElementById('sidebar');
@@ -249,5 +247,3 @@ document.addEventListener('DOMContentLoaded', () => {
             parent.classList.toggle('active');
         });
     });
-
-});

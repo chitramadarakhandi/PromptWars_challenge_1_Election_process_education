@@ -4,9 +4,6 @@ VoteWise is a modern, interactive web-based AI assistant designed to help users 
 
 demo link : https://keen-fox-522faf.netlify.app/
 
-screen shits
-Home page
-Screenshots/home.png
 ## Features
 
 - **AI Chat Assistant**: Ask any election-related questions and get structured, easy-to-follow answers powered by Google's Gemini API.
